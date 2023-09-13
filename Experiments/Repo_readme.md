@@ -10,8 +10,9 @@
     - Used pretrained VGG models to extract deep features
 * Nightime Satellite Imagery ( NOAA )
     - Took avg. Lumonisity for the regression task
+---
 
-**Key takeways** \
+**Key takeways** 
 * "Night-time Luminosity can act as good proxy for economic activities"
 * They have prepared report and notebooks for their tasks -> easy to understand
 * similar motivation as ours
