@@ -5,3 +5,9 @@ obectives of the code in that file. Update the readme whenever you add the any n
 
 Luminosity_final:
 https://colab.research.google.com/drive/15eIOPCA5FMzOJ2NT_8mmSEOgOpE3dugm?usp=sharing 
+
+**extractsatelliteimages.ipynb** - Is a codefile in which we need to input a csv with lat, long, and image labels and will extract satellite images corresponding to that latitude and longitude. 
+
+**k_nearest_code_old.ipynb** - Is a codefile through which we are extracting k- nearest neighbours using OSM features. We just need to change the values of variables to output different k nearest places. 
+
+
