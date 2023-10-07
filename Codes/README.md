@@ -10,6 +10,6 @@ https://colab.research.google.com/drive/15eIOPCA5FMzOJ2NT_8mmSEOgOpE3dugm?usp=sh
 
 **k_nearest_code_old.ipynb** - Is a codefile through which we are extracting k- nearest neighbours using OSM features. We just need to change the values of variables to output different k nearest places. 
 
-**9images_final.ipynb**- Is a codefile to divide an image into 9 equal patches, and find the lat longs of centres of each of the smaller 9 patches.
+**9images_final.ipynb** - Is a codefile to divide an image into 9 equal patches, and find the lat longs of centres of each of the smaller 9 patches.
 
-**features_only_haryana.ipynb**- Is a codefile to filter features only of haryana, from entire Northern region.
+**features_only_haryana.ipynb** - Is a codefile to filter features only of haryana, from entire Northern region.
