@@ -12,3 +12,4 @@ https://colab.research.google.com/drive/15eIOPCA5FMzOJ2NT_8mmSEOgOpE3dugm?usp=sh
 
 9images_final- Is a codefile to divide an image into 9 equal patches, and find the lat longs of centres of each of the smaller 9 patches.
 
+features_only_haryana- Is a codefile to filter features only of haryana, from entire Northern region.
