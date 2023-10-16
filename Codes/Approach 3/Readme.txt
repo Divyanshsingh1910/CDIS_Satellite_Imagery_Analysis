@@ -1,0 +1,2 @@
+K means Clustering: Given a value of K segment the satellite images and give the relative area of k segments.
+deep features: Trains a CNN model with satellite images as input and Avg. NTL as output and then we move back into the CNN layers and get the deep features of the Satellite image. 
