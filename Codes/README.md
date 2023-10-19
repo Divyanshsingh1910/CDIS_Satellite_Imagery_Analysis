@@ -13,3 +13,24 @@ https://colab.research.google.com/drive/15eIOPCA5FMzOJ2NT_8mmSEOgOpE3dugm?usp=sh
 **`9images_final.ipynb`** - Is a codefile to divide an image into 9 equal patches, and find the lat longs of centres of each of the smaller 9 patches. (Author: )
 
 **`features_only_haryana.ipynb`** - Is a codefile to filter features only of haryana, from entire Northern region. (Author: )
+
+
+# Approaches we Tested 
+
+## Approach 1
+
+- Land-cover-classification-with-eurosat-data-resnet and land-cover-classification-with-eurosat-data-resnetv2 are used for extracting Deep Features
+- Luminosity_final used for calculating Luminosity
+- Ind_pak_relative_wealth_index used as a y label
+- Output is the final csv used to train and test the model
+- Predicting_Wealth_Index (2) is training and testing the model
+
+
+## Approach 2 
+
+
+
+## Approach 3 
+
+- **K means Clustering**: Given a value of K segment the satellite images and give the relative area of k segments.
+- **Deep features**: Trains a CNN model with satellite images as input and Avg. NTL as output and then we move back into the CNN layers and get the deep features of the Satellite image.
